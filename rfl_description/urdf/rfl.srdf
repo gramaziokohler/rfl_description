@@ -195,7 +195,6 @@
     <disable_collisions link1="robot11_base" link2="world" reason="Never" />
     <disable_collisions link1="robot11_base" link2="x_rail" reason="User" />
     <disable_collisions link1="robot11_base_link" link2="robot11_link_1" reason="Adjacent" />
-    <disable_collisions link1="robot11_base_link" link2="robot11_link_2" reason="User" />
     <disable_collisions link1="robot11_base_link" link2="robot11_link_3" reason="Never" />
     <disable_collisions link1="robot11_base_link" link2="robot11_xy_cart" reason="Never" />
     <disable_collisions link1="robot11_base_link" link2="robot12_base" reason="User" />
