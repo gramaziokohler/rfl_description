@@ -8,4 +8,4 @@ moveit_setup_assistant_config:
   CONFIG:
     author_name: Pacher Matteo
     author_email: pacher@arch.ethz.ch
-    generated_timestamp: 1571922094
+    generated_timestamp: 1643108175
